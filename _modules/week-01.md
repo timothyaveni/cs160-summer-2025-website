@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+<!-- prettier-ignore-start -->
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+June 17th
+: Introduction
+  : &nbsp;
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+June 18th
+: The Design Cycle
+  : &nbsp;
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+June 19th
+: HOLIDAY - Juneteenth
+  : &nbsp;
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+June 20th
+: TBA
+  : &nbsp;
+
+<!-- prettier-ignore-end -->
