@@ -2,8 +2,8 @@
 name: Christopher Bannon
 role: Teaching Assistant
 email: bannon.c.35@berkeley.edu
+website: https://cbannon.com/
 order: 2
-# website:
 # photo:
 # meta:
 #   Office Hours: Somewhere on the internet

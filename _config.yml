@@ -17,7 +17,7 @@ title: CS 160 summer 2024
 tagline: User Interface Design and Development
 description: Course site for CS 160 summer 2024
 author: Timothy J. Aveni
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cs160su24.org" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
