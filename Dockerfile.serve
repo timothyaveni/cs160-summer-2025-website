@@ -1,0 +1,11 @@
+FROM ruby:3.0.1-buster AS site-build
+
+WORKDIR /app
+  
+COPY ["./site", "/app"]
+
+RUN bundle install
+RUN jekyll build
+
+FROM nginx:alpine
+COPY --from=site-build /app/_site /usr/share/nginx/html
