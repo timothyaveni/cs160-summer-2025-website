@@ -67,7 +67,7 @@ Since we’re teaching a four-unit course at double the typical speed, you shoul
 ## Staff
 
 Instructor: <span data-delta="current instructor"><a href="https://timothyaveni.com/">Timothy J. Aveni</a></span>  
-Teaching assistants: <span data-delta="course staff"><a href="https://rsha256.github.io/main.html">Rahul Shah</a>, <a href="https://jamesdsmith.net/">James Smith</a>, Christopher Bannon</span> <!-- TODO -->
+Teaching assistants: <span data-delta="course staff"><a href="https://rsha256.github.io/main.html">Rahul Shah</a>, <a href="https://jamesdsmith.net/">James Smith</a>, <a href="https://cbannon.com/">Christopher Bannon</a></span> <!-- TODO -->
 
 Office hours: <span data-delta="office hours schedule">TBD</span>
 
@@ -218,7 +218,7 @@ You will, however, have six slip days to use throughout the semester, described 
 We will assign foundational readings each week, distinguished between required readings and optional readings.
 We recommend reading all of them, though! They're good!
 
-There won't be immediate high-stakes assessments of the contents of readings (although we may assign open-note reading "quizzes" with unlimited retakes during lecture, to help you check your understanding).
+There won't be immediate high-stakes assessments of the contents of readings (although we may assign open-note reading "quizzes" on required readings with unlimited retakes during lecture, to help you check your understanding).
 Required readings, however, are fair game for questions on the two (closed-note) midterm exams.
 
 ## Team expectations
