@@ -157,6 +157,8 @@ In addition to the above attendance policy, **you are responsible for assignment
 If you are absent for a discussion section during which your team worked on a component of the final project, you should expect to coordinate your workload with your team so that everyone has contributed fairly to the final presentables.
 If you are absent during an in-class activity that cannot be made up later, course staff may excuse your grade for that activity in the gradebook (but the absence will still count toward your total as described above).
 
+If you are on the waitlist, we will not track your absences until you are officially enrolled in the course.
+
 You are expected to attend the entirety of each session.
 If you arrive late or leave early from a session, your marked attendance for that section will be at the discretion of course staff.
 

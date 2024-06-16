@@ -5,8 +5,11 @@ email: bannon.c.35@berkeley.edu
 website: https://cbannon.com/
 order: 2
 photo: empty-profile.webp
+pronouns: he/him
 # meta:
 #   Office Hours: Somewhere on the internet
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
+
+(pending)

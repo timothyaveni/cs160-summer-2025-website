@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+description: Listing of course modules and topics.
 ---
 
-# Weekly Schedule
+# Schedule
 
-Note that June 19th and July 4th are holidays this semester. No lectures, discussion sections, or office hours will meet on those days.
-
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
