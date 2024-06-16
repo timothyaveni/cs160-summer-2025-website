@@ -5,6 +5,7 @@ email: james.smith@berkeley.edu
 website: https://jamesdsmith.net/
 order: 1
 photo: james.webp
+pronouns: he/him
 # meta:
 #   Office Hours: Somewhere on the internet
 ---
