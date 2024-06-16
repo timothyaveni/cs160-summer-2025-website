@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: bannon.c.35@berkeley.edu
 website: https://cbannon.com/
 order: 2
-# photo:
+photo: empty-profile.webp
 # meta:
 #   Office Hours: Somewhere on the internet
 ---

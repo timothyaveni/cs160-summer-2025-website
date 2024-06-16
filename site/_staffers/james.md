@@ -4,9 +4,7 @@ role: Teaching Assistant
 email: james.smith@berkeley.edu
 website: https://jamesdsmith.net/
 order: 1
-# photo:
+photo: empty-profile.webp
 # meta:
 #   Office Hours: Somewhere on the internet
 ---
-
-<!-- [Schedule an appointment](#){: .btn .btn-outline } -->
