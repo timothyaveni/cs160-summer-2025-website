@@ -1,11 +1,11 @@
 // Just the Class dependencies
-@import 'card';
+@import "card";
 
 // Just the Class styles
-@import 'announcement';
-@import 'module';
-@import 'schedule';
-@import 'staffer';
+@import "announcement";
+@import "module";
+@import "schedule";
+@import "staffer";
 
 // Overrides
 code {
@@ -63,35 +63,47 @@ summary {
 
 .module {
   .label-team {
-    background-color: #2F6960
+    background-color: #2f6960;
   }
 
   .label-lecture {
-    background-color: #3d1a96
+    background-color: #3d1a96;
   }
 
   .label-studio {
-    background-color: #45A89A
+    background-color: #45a89a;
   }
 
   .label-discussion {
-    background-color: #F08352
+    background-color: #f08352;
   }
 
   .label-proj {
-    background-color: #276EA3
+    background-color: #276ea3;
   }
 
   .label-ltblue {
-    background-color: #46A6F0
+    background-color: #46a6f0;
   }
 
   .label-reading-req {
-    background-color: #6f6f6f
+    background-color: #6f6f6f;
   }
 
   .label-reading-opt {
     background-color: #ddd;
     color: black;
+  }
+}
+
+.schedule {
+  .schedule-event.lecture {
+    background-color: #3d1a96;
+  }
+
+  .schedule-event.section-a,
+  .schedule-event.section-b,
+  .schedule-event.section-c {
+    background-color: #f08352;
   }
 }
