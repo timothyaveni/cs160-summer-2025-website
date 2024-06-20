@@ -60,3 +60,38 @@ summary {
 .site-title {
   font-size: 1.2rem !important;
 }
+
+.module {
+  .label-team {
+    background-color: #2F6960
+  }
+
+  .label-lecture {
+    background-color: #3d1a96
+  }
+
+  .label-studio {
+    background-color: #45A89A
+  }
+
+  .label-discussion {
+    background-color: #F08352
+  }
+
+  .label-proj {
+    background-color: #276EA3
+  }
+
+  .label-ltblue {
+    background-color: #46A6F0
+  }
+
+  .label-reading-req {
+    background-color: #6f6f6f
+  }
+
+  .label-reading-opt {
+    background-color: #ddd;
+    color: black;
+  }
+}
