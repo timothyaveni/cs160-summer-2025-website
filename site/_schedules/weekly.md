@@ -34,6 +34,10 @@ schedule:
         location: Soda 405
   - name: Tuesday
     events:
+      - name: Tim's office hours
+        start: 10:00 AM
+        end: 10:45 AM
+        location: Jacobs 310
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -58,6 +62,10 @@ schedule:
         location: Soda 405
   - name: Thursday
     events:
+      - name: Tim's office hours
+        start: 10:00 AM
+        end: 10:45 AM
+        location: Jacobs 310
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM

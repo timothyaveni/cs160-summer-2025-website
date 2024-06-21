@@ -106,4 +106,12 @@ summary {
   .schedule-event.section-c {
     background-color: #f08352;
   }
+
+  .schedule-event.tim-s-office-hours {
+    .time,
+    .location {
+      // bruh how !important does this have to be
+      font-size: 0.65rem !important;
+    }
+  }
 }
