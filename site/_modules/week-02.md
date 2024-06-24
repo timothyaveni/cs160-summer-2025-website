@@ -5,7 +5,7 @@ title: Week 1
 <!-- prettier-ignore-start -->
 
 June 24th
-: **Lecture**{: .label .label-lecture} Personas and Team Formation
+: **Lecture**{: .label .label-lecture} Team Project Introduction and Team Formation
   : Slides
 : **Discussion**{: .label .label-discussion} HTML and CSS
 : **Reading (required)**{: .label .label-reading-req} [The Perfect Brainstorm](https://bcourses.berkeley.edu/courses/1535376/files/folder/readings?preview=89055875)

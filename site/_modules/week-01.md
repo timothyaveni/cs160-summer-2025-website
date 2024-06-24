@@ -19,7 +19,7 @@ June 19th
 
 June 20th
 : **Lecture**{: .label .label-lecture} Design Methods, Sketching, Brainstorming
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89057517)
 : **Reading (optional)**{: .label .label-reading-opt} [Viégas & Wattenberg, Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 : **Discussion**{: .label .label-discussion} HTML and CSS
 
