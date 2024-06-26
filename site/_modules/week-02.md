@@ -11,7 +11,7 @@ June 24th
 : **Reading (required)**{: .label .label-reading-req} [The Perfect Brainstorm](https://bcourses.berkeley.edu/courses/1535376/files/folder/readings?preview=89055875)
 
 June 25th
-: **Lecture**{: .label .label-lecture} Task Analysis
+: **Lecture**{: .label .label-lecture} Task Analysis and Contextual Inquiry
   : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89082946)
 : **Reading (required)**{: .label .label-reading-req} [Principles of Contextual Inquiry (Contextual design ch. 3)](https://berkeley.app.box.com/s/s0mf71wwr1pc2s3pf2mn511s3igk2y2s)
 : **Discussion**{: .label .label-discussion} Responsiveness, Flexbox, and Component Libraries
