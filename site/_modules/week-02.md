@@ -20,12 +20,12 @@ June 26th
 : **Lecture**{: .label .label-lecture} TBA
   : Slides
 : **Reading (required)**{: .label .label-reading-req} [The Design of Everyday Things, Chapter 1](https://berkeley.app.box.com/s/tfhr8gcdwu5fcehuhvovx3ci4b6cmirz)
-: **Programming Assignment Due**{: .label .label-proj} [Programming Assignment 1: Introduction to Web frontend](https://bcourses.berkeley.edu/courses/1535376/assignments/8758590)
 : **Discussion**{: .label .label-discussion} Responsiveness, Flexbox, and Component Libraries
 
 June 27th
 : **Lecture**{: .label .label-lecture} TBA
   : Slides
+: **Programming Assignment Due**{: .label .label-proj} [Programming Assignment 1: Introduction to Web frontend](https://bcourses.berkeley.edu/courses/1535376/assignments/8758590)
 : **Discussion**{: .label .label-discussion} JavaScript
 
 <!-- prettier-ignore-end -->
