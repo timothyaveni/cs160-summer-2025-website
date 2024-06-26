@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 2
 ---
 
 <!-- prettier-ignore-start -->
@@ -17,8 +17,8 @@ June 25th
 : **Discussion**{: .label .label-discussion} Responsiveness, Flexbox, and Component Libraries
 
 June 26th
-: **Lecture**{: .label .label-lecture} TBA
-  : Slides
+: **Lecture**{: .label .label-lecture} Personas; Affordances, Signifiers, and Conceptual Models
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89082887)
 : **Reading (required)**{: .label .label-reading-req} [The Design of Everyday Things, Chapter 1](https://berkeley.app.box.com/s/tfhr8gcdwu5fcehuhvovx3ci4b6cmirz)
 : **Discussion**{: .label .label-discussion} Responsiveness, Flexbox, and Component Libraries
 
