@@ -25,6 +25,7 @@ June 26th
 June 27th
 : **Lecture**{: .label .label-lecture} TBA
   : Slides
+: **Reading (optional)**{: .label .label-reading-opt} [Direct Manipulation Interfaces](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/Hutchins-HCI-85.pdf)
 : **Programming Assignment Due**{: .label .label-proj} [Programming Assignment 1: Introduction to Web frontend](https://bcourses.berkeley.edu/courses/1535376/assignments/8758590)
 : **Discussion**{: .label .label-discussion} JavaScript
 
