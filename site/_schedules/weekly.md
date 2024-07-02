@@ -32,6 +32,10 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: Soda 405
+      - name: Rahul's office hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Soda 405
       - name: James's office hours
         start: 3:00 PM
         end: 5:00 PM
@@ -67,6 +71,10 @@ schedule:
       - name: Section A
         start: 1:00 PM
         end: 2:00 PM
+        location: Soda 405
+      - name: Rahul's office hours
+        start: 2:00 PM
+        end: 3:00 PM
         location: Soda 405
   - name: Thursday
     events:
