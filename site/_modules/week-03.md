@@ -12,12 +12,12 @@ July 1st
 : **Reading (optional)**{: .label .label-reading-opt} [The Human Information-Processor](https://bcourses.berkeley.edu/courses/1535376/files/folder/readings?preview=89101494)
 
 July 2nd
-: **Lecture**{: .label .label-lecture} TBA
-  : Slides
+: **Lecture**{: .label .label-lecture} Mathematical modeling and Information Visualization
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89114169)
 : **Discussion**{: .label .label-discussion} Asynchronous JavaScript
 
 July 3rd
-: **Lecture**{: .label .label-lecture} TBA
+: **Lecture**{: .label .label-lecture} Design Patterns and Visual Design
   : Slides
 : **Discussion**{: .label .label-discussion} Asynchronous JavaScript
 
