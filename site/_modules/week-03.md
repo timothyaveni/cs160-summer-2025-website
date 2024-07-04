@@ -18,10 +18,13 @@ July 2nd
 
 July 3rd
 : **Lecture**{: .label .label-lecture} Design Patterns and Visual Design
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89120698)
 : **Discussion**{: .label .label-discussion} Asynchronous JavaScript
 
 July 4th
 : HOLIDAY
+
+July 5th
+: **Programming Assignment Due**{: .label .label-proj} [Programming Assignment 2: DOM basics](https://bcourses.berkeley.edu/courses/1535376/assignments/8760766)
 
 <!-- prettier-ignore-end -->
