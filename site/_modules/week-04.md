@@ -18,6 +18,8 @@ July 10th
 : **Lecture**{: .label .label-lecture} Heuristic Evaluation
   : Slides
 : **Discussion**{: .label .label-discussion} Team project work: contextual inquiry
+: **Reading (required)**{: .label .label-reading-req} [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+: **Reading (required)**{: .label .label-reading-req} [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 : **Midterm 1**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
 
 July 11th
@@ -27,6 +29,6 @@ July 11th
 : **Midterm 1**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
 
 July 12th
-: **Programming Assignment Due**{: .label .label-proj} Programming Assignment 3: Design Mockups and APIs
+: **Programming Assignment Due**{: .label .label-proj} Programming Assignment 3: Design Mockups
 
 <!-- prettier-ignore-end -->
