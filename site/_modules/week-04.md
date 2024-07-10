@@ -11,11 +11,11 @@ July 8th
 
 July 9th
 : **Lecture**{: .label .label-lecture} Prototyping
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89145425)
 : **Discussion**{: .label .label-discussion} Figma
 
 July 10th
-: **Lecture**{: .label .label-lecture} Heuristic Evaluation
+: **Lecture**{: .label .label-lecture} Usability inspection
   : Slides
 : **Discussion**{: .label .label-discussion} Team project work: contextual inquiry
 : **Reading (required)**{: .label .label-reading-req} [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
