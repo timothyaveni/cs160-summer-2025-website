@@ -24,7 +24,7 @@ July 10th
 
 July 11th
 : **Lecture**{: .label .label-lecture} Empirical evaluation
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89196966)
 : **Discussion**{: .label .label-discussion} Team project work: contextual inquiry
 : **Midterm 1**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
 
