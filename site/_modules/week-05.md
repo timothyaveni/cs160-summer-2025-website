@@ -24,8 +24,16 @@ July 18th
 : **Lecture**{: .label .label-lecture} Wisdom of the "ancients"
   : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89196002)
 : **Discussion**{: .label .label-discussion} Team project work: low-fidelity prototype
+: **Reading (optional)**{: .label .label-reading-opt} [Principles of Mixed-Initiative User Interfaces](https://erichorvitz.com/chi99horvitz.pdf)
+: **Reading (optional)**{: .label .label-reading-opt} [Soylent: A Word Processor with a Crowd Inside](https://crowdsourcing-class.org/readings/downloads/hci/Soylent.pdf)
 
 July 19th
+: 
+
+July 20th
+:
+
+July 21st
 : **Programming Assignment Due**{: .label .label-proj} Programming Assignment 4: Speedy Smarts
 
 <!-- prettier-ignore-end -->
