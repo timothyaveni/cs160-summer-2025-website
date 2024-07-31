@@ -13,7 +13,7 @@ July 23rd
 : **Lecture**{: .label .label-lecture} How Bodies Matter
   : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89254686)
 : **Discussion**{: .label .label-discussion} High-fidelity prototyping
-: **Reading (optional)**{: .label .label-reading-req} [How Bodies Matter](https://hci.stanford.edu/publications/2006/HowBodiesMatter-DIS2006.pdf)
+: **Reading (optional)**{: .label .label-reading-opt} [How Bodies Matter](https://hci.stanford.edu/publications/2006/HowBodiesMatter-DIS2006.pdf)
 : **Programming Assignment Due**{: .label .label-proj} Programming assignment 5: It's a multi-modal world after all
 
 July 24th
