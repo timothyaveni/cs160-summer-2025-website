@@ -22,7 +22,7 @@ July 31st
 : **Discussion**{: .label .label-discussion} High-fidelity prototyping (CHECKIN DUE)
 
 August 1st
-: **Lecture**{: .label .label-lecture} Accessibility
+: **Lecture**{: .label .label-lecture} HCI Research
   : Slides
 : **Discussion**{: .label .label-discussion} High-fidelity prototyping (CHECKIN DUE)
 
