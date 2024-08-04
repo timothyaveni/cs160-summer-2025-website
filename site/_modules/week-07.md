@@ -18,7 +18,7 @@ July 30th
 
 July 31st
 : **Lecture**{: .label .label-lecture} AR/VR
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89268577)
 : **Discussion**{: .label .label-discussion} High-fidelity prototyping (CHECKIN DUE)
 
 August 1st
