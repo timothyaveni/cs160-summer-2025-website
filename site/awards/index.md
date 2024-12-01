@@ -12,7 +12,7 @@ Three teams were selected as winners of the following awards:
 
 Awarded to the team with the most interesting or impressive combination of user interface and backing artificial intelligence.
 
-**Elden Ring LLM**, by Harnoor Dhillon, Tony Li, and two more students
+**[Elden Ring LLM](http://eldenringllm.app/)**, by Harnoor Dhillon, Tony Li, and two more students
 
 ## Most compelling user story
 
