@@ -12,16 +12,16 @@ Three teams were selected as winners of the following awards:
 
 Awarded to the team with the most interesting or impressive combination of user interface and backing artificial intelligence.
 
-Placeholder!
+**Elden Ring LLM**, by Harnoor Dhillon, Tony Li, and two more students
 
 ## Most compelling user story
 
 Awarded to the team who best demonstrated the process of user-centered design, learning from and adapting to users' needs.
 
-Placeholder!
+**VisionMate**, by Chang Ding (Jason), Zain Jandali, Joshua Le, Qiongwen Liu, and one more student
 
 ## "Ship it!" — most polished
 
 Awarded to the team whose final prototype is solidly built and practically ready to deploy to the general public, with solid interactions, polished design, and firm implementation.
 
-Placeholder!
+**Ireonada**, by Sriya Kalyan, Liwen Sun, Andrea Lukas, and one more student
