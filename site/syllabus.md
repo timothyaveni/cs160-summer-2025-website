@@ -40,17 +40,17 @@ It’s an exciting time for HCI, and we’re hoping that after this course, you�
 <span data-delta="summer session-specific, as are the weekly commitments below.">
 This is an eight-week course.
 You should plan to be physically present and engaged throughout the whole semester.
-Since we’re teaching a four-unit course at double the typical speed, you should expect to spend a significant amount of time on work for this course (the <a href="https://classes.berkeley.edu/content/2024-summer-compsci-160-001-lec-001)">official guidance from the institute</a> suggests spending <strong>24 hours</strong> per week). Here's an overview of what should be on your radar, and about how much time we're expecting each aspect to take each week: 
+Since we’re teaching a four-unit course at double the typical speed, you should expect to spend a significant amount of time on work for this course (the <a href="https://classes.berkeley.edu/content/2025-summer-compsci-160-001-lec-001)">official guidance from the institute</a> suggests spending <strong>24 hours</strong> per week). Here's an overview of what should be on your radar, and about how much time we're expecting each aspect to take each week: 
 </span>
 
 |                                    |                                                                                                                                                                                                                            | Weekly load                        |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | Lecture                            | Learn about UI design! These lectures are interactive and **will require attendance**.                                                                                                                                     | 6 hours                            |
-| Discussion section                 | Learn about and work on implementing your designs on the Web. **Attendance is required.** These meetings will begin on the first Thursday of the semester; keep an eye out to see which section you have been assigned to. | 2 hours                            |
-| Individual programming assignments | Six total. These will focus on giving you practice with Web implementation to prepare you for the final team project implementation.                                                                                       | ~3 hours                           |
+| Discussion section                 | Learn about and work on implementing your designs on the Web. **Attendance is required.** These meetings will begin on the first Wednesday of the semester; keep an eye out to see which section you have been assigned to. | 2 hours                            |
+| Programming exercises      | These will focus on giving you practice with Web implementation to prepare you for the final team project implementation. Weekly “choose-your-own-adventure” deadlines.                                                                                       | ~3 hours                           |
 | Team assignments                   | One continuous team project throughout the semester, with varying workload (likely increasing as the semester goes on)                                                                                                     | 4-12 hours (depending on the week) |
 | Reading                            | Foundational readings that will help you pick up the course content.                                                                                                                                                       | ~2 hours                           |
-| Exams                              | Two 85-minute exams during the semester. No final exam.                                                                                                                                                                    | ~2 hours' study time               |
+| Exams                              | Three 50-minute exams during the semester. No final exam.                                                                                                                                                                    | ~2 hours' study time               |
 
 ## Course technology
 
@@ -60,14 +60,14 @@ Since we’re teaching a four-unit course at double the typical speed, you shoul
 | [bCourses](https://bcourses.berkeley.edu/courses/1535376) | {::nomarkdown}<ul><li>Gradebook</li><li>Course files (slides, readings, etc.)</li><li>links to other course technology</li></ul>{:/}                                                                      | Please **do not** use bCourses's messaging system to communicate with staff. Use Edstem posts instead.                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [Edstem](https://edstem.org/us/courses/59802/discussion/) | {::nomarkdown}<ul><li><strong>Announcements</strong> (incl. email)</li><li>course content discussion</li><li>course logistics discussion (through private posts)</li><li>team communication</li></ul>{:/} | Edstem will be the primary bidirectional communication channel between you and course staff. Make sure you are receiving announcement notification emails from Edstem, because this is where we expect to communicate important course updates with you. Private posts on Edstem should be your primary means of digital communication with course staff. We will also set up a private chat channel between you and your team on Edstem, though your team is welcome to choose an alternative mode of communication. |
 | [salle.live](https://salle.live)                          | Lecture attendance and participation                                                                                                                                                                      | salle.live is where you will sign into lecture sessions for attendance tracking. You'll be able to see a live feed of the current lecture, participate in Zoom-style chat alongside lecture, and interact with certain elements of lecture slides. Rather than visiting salle.live directly, you can log in through a link in bCourses.                                                                                                                                                                               |
-| [reagent](https://rea.gent/)                              | Access to APIs for AI                                                                                                                                                                                     | reagent is a tool designed to help you prototype with AI APIs (GPT, Stable Diffusion, etc.), which will become important in a later programming assignment and in your team project. Using reagent will allow the course staff to fund some portion of your API access. You'll log in with your GitHub account.                                                                                                                                                                                                       |
-| [Gradescope](https://www.gradescope.com/courses/793593)   | Individual assignment submissions and autograders                                                                                                                                                         | You'll submit individual programming assignments on Gradescope, which will run some automated tests against your assignment. Any manual grading will also take place on Gradescope, where you will ultimately see your grades for these assignments.                                                                                                                                                                                                                                                                  |
-| PrairieLearn                                              | Computer-based exams                                                                                                                                                                                      | Exams conducted in the computer-based testing facility will take place in PrairieLearn.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| [xuxi](https://xuxi.org)                          | Programming exercises                                                                                                                                                                      | xuxi (pronounced something like "sushi") hosts programming exercises that you’ll complete throughout the semester. These exercises are graded on completion, which is evaluated through various tests and check-off criteria. Details about your required assignment load every week can be found within xuxi.                                                                                                                                                                                |
+| [reagent](https://rea.gent/)                              | Access to APIs for AI                                                                                                                                                                                     | reagent is a tool designed to help you prototype with AI APIs (GPT, Stable Diffusion, etc.), which will become important in later programming exercises and in your team project. Using reagent will allow the course staff to fund some portion of your API access. You'll log in with your GitHub account.                                                                                                                                                                                                       |
+| PrairieLearn, [PrairieTest](https://us.prairietest.com/)                                              | Computer-based exams                                                                                                                                                                                      | Exams conducted in the computer-based testing facility will take place in PrairieLearn.                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Staff
 
 Instructor: <span data-delta="current instructor"><a href="https://timothyaveni.com/">Timothy J. Aveni</a></span>  
-Teaching assistants: <span data-delta="course staff"><a href="https://rsha256.github.io/main.html">Rahul Shah</a>, <a href="https://jamesdsmith.net/">James Smith</a>, <a href="https://cbannon.com/">Christopher Bannon</a></span> <!-- TODO -->
+Teaching assistants: <span data-delta="course staff"><a href="https://jamesdsmith.net/">James Smith</a>, ...</span>
 
 Office hours: <span data-delta="office hours schedule">TBD</span>
 
@@ -75,10 +75,10 @@ Office hours: <span data-delta="office hours schedule">TBD</span>
 
 | Component                                       | Weight |
 | ----------------------------------------------- | ------ |
-| Individual exercises and in-class participation | 25%    |
-| Individual programming assignments              | 20%    |
-| Team project                                    | 30%    |
-| Exams                                           | 25%    |
+| Individual work and in-class participation      | 20%    |
+| Individual programming exercises                | 20%    |
+| Team project                                    | 20%    |
+| Exams                                           | 30%    |
 
 <!-- Participation and attendance will affect your grade as described below. -->
 
@@ -117,8 +117,8 @@ Your academic advisor can help you understand your best option in such cases.
 ## Attendance
 
 Attendance is required for all course sessions: that’s four lectures a week plus two discussion section meetings.
-Lectures and discussion sections will not be recorded for general availability.
-In addition, there will be two exams during the semester for which you will need to schedule and attend a (flexible) time slot.
+Some lectures may be recorded, but this will be left to the discretion and logistical capability of course staff.
+In addition, there will be three exams during the semester for which you will need to schedule and attend a (flexible) time slot.
 
 By attending regularly, you’ll be able to participate in class activities, meet with your team when needed (especially in discussion sections), and avoid falling behind.
 <span data-delta="Summer-session specific (as will be a lot of this section)">Since summer sessions are so fast-paced, it can be really hard to catch up if you do start to lag behind the rest of the class.</span>
@@ -144,7 +144,7 @@ Students who miss too much of the course may be better-served by a retroactive m
 | Absent 6-7 sessions   | 3 percentage point grade penalty                     |
 | Absent 8-9 sessions   | 8 percentage point grade penalty                     |
 | Absent 10-12 sessions | 15 percentage point grade penalty                    |
-| Absent 13+ sessions   | **0/25** for the course participation grade category |
+| Absent 13+ sessions   | **0/20** for the course participation grade category |
 
 <!-- TODO "participation"? -->
 <!-- | Absent 13+ sessions   | **Not eligible to pass the course** | -->
@@ -157,6 +157,8 @@ In addition to the above attendance policy, **you are responsible for assignment
 If you are absent for a discussion section during which your team worked on a component of the final project, you should expect to coordinate your workload with your team so that everyone has contributed fairly to the final presentables.
 If you are absent during an in-class activity that cannot be made up later, course staff may excuse your grade for that activity in the gradebook (but the absence will still count toward your total as described above).
 
+We may invite guest speakers during the semester; if we do, **please attend, and come prepared to engage!** If we have guest lectureres come in, attending one of these course sessions will subtract an absence off your total.
+
 If you are on the waitlist, we will not track your absences until you are officially enrolled in the course.
 
 You are expected to attend the entirety of each session.
@@ -166,7 +168,7 @@ Before most class sessions, we’ll ask you if you’re present in the room.
 It’s okay if you can’t attend every session!
 That’s why our attendance policy allows for the occasional absence.
 
-> If you _misrepresent your attendance_, however, (e.g. by having a friend sign you in), you (and your friend!) will incur some additional penalty (and will not earn attendance credit).
+> If you _misrepresent your attendance_, however, (_e.g.,_ by signing in from outside the classroom), you will incur some additional penalty (and will not earn attendance credit).
 > The nature of this penalty (e.g. a further grade deduction or a referral to the Center for Student Conduct) will be at the discretion of the course instructors.
 > We hope we never have to deal with this; it’s a lot easier for us to work with you if you tell us the truth about your attendance!
 
@@ -188,15 +190,15 @@ Both will be taken **in-person only** in the computer-based testing facility (CB
 
 <!-- TODO: need to hear back from greg -->
 
-The first exam will take place <span data-delta="first exam date">July 9th through July 11th</span>, and the second <span data-delta="second exam date">July 30th through August 1st</span>.
-Shortly before each exam week, you will have the opportunity to choose a 90-minute time slot on one of the exam days that works for you, and you will then be required to take the exam during that time slot.
+The first exam will take place <span data-delta="first exam date" style="text-decoration: line-through;">July 9th through July 11th</span>, and the second <span data-delta="second exam date" style="text-decoration: line-through;">July 30th through August 1st</span>.
+Shortly before each exam week, you will have the opportunity to choose a 60-minute time slot on one of the exam days that works for you, and you will then be required to take the exam during that time slot.
 If you are unable to come in-person for an exam, you will not earn any credit for the exam unless you have an approved, documented excuse for your absence; do **not** assume an absence will be excused before speaking with course staff.
 Excuses are not granted for voluntary travel.
 
 ## Discussion section
 
-Discussion sections will start on the first Thursday of the semester.
-We hope to assign discussion sections by the end of the second day of class.
+Discussion sections will start on the first Wednesday of the semester.
+We hope to assign discussion sections by the end of the second day of class; you’ll need to come to your assigned section every week.
 Late-enrolled students may not have an opportunity to select a discussion section preference.
 
 Discussion section attendance is required, unless otherwise noted.
@@ -204,9 +206,11 @@ You should expect to attend each section for the full time slot according to the
 
 Discussion sections meet twice a week.
 Each meeting will cover a different topic.
-Discussion sections will typically be aimed more at practical skills and teamwork sessions compared to lecture, which will focus on concepts in human-computer interaction.
+Discussion sections will typically be aimed more at practical skills and teamwork sessions compared to lecture, which will focus on concepts in human-computer interaction and UI design/development.
 
 ## Individual assignments
+
+TODO: outdated.
 
 Throughout the course, we will assign six individual programming assignments. Each will be weighted evenly. Extra credit may be offered in each assignment to give you more practice or to give you some buffer in case of lost points, but extra credit will not cause your grade for that assignment to exceed 100% unless otherwise noted.
 
@@ -221,7 +225,7 @@ We will assign foundational readings each week, distinguished between required r
 We recommend reading all of them, though! They're good!
 
 There won't be immediate high-stakes assessments of the contents of readings (although we may assign open-note reading "quizzes" on required readings with unlimited retakes during lecture, to help you check your understanding).
-Required readings, however, are fair game for questions on the two (closed-note) midterm exams.
+Required readings, however, are fair game for questions on the (closed-note) midterm exams.
 
 ## Team expectations
 
@@ -254,6 +258,8 @@ I take academic integrity pretty seriously! That said, we’re not wildly strict
 
 You are encouraged to study and work with your classmates, including on individual assignments. Talking through your code with other students is totally acceptable! Make sure you understand your work, though, since there’s a reason we’re having you practice this stuff. You’re **not** allowed to copy code straight from your classmates.
 
+TODO: outdated
+
 Consulting sites like StackOverflow or using large language models to help you code is also okay, but you should stick to asking methodically for what you need as you need it. You’re not allowed to just slap an entire assignment description into an LLM and have it spit out an implementation, but you can use things like GitHub Copilot (free for students, by the way!) to assist with the boring bits as you work through writing code yourself. I do it all the time, myself!
 
 For code in your final project prototype, where we’re not specifically working on training your Web programming skills, you’re even more free to use large language models if you find they’re helping you skip the tedious parts of building your application (e.g. the [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)dy bits). What we’re excited about is seeing you build the unique, innovative UIs that your target user group needs, not seeing how good you are at making login pages and other boring stuff an LLM can help you flesh out. Just be mindful of code quality when you’re doing this! Use LLMs the same way you would in a professional software engineering job.
@@ -271,6 +277,8 @@ Note that some assignments may not be available to waitlisted students until aft
 Keep an eye out for your placement in a **discussion section** and **final project team**. If you're not sure where to find your section or team assignment, reach out to the course staff on Edstem.
 
 ## Assignment extensions
+
+TODO: outdated
 
 ### For individual assignments:
 
@@ -316,7 +324,7 @@ Keep the following in mind:
 - In general, as a student, you'll have some responsibility to keep course staff in the loop on your needs outlined in the letter from the DSP office.
   For example, if you need an extension on an assignment, please let us know as soon as you are able; it's often not practical for us to accept and grade a surprise mass-submission of assignments right at the end of the semester, and this would typically not be within the scope of a DSP letter.
 
-For specific DSP-related communications, if you'd prefer not to make a private Edstem post to all of course staff, you can reach out directly to <span data-delta="DSP TA"><a href="mailto:rsha256@berkeley.edu">Rahul Shah</a></span>, the member of course staff responsible for DSP-related logistics this semester.
+For specific DSP-related communications, if you'd prefer not to make a private Edstem post to all of course staff, you can reach out directly to <span data-delta="DSP TA"><a href="mailto:james.smith@berkeley.edu">James Smith</a></span>, the member of course staff responsible for DSP-related logistics this semester.
 
 ## About you
 
