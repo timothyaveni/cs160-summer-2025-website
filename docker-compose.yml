@@ -5,7 +5,7 @@ services:
     image: caddy:2.8
     restart: unless-stopped
     ports:
-      - "1160:80"
+      - "1161:80"
     volumes:
       - $PWD/Caddyfile:/etc/caddy/Caddyfile
       - $PWD/_site:/srv
