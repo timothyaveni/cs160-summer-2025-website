@@ -40,7 +40,7 @@ It’s an exciting time for HCI, and we’re hoping that after this course, you�
 <span data-delta="summer session-specific, as are the weekly commitments below.">
 This is an eight-week course.
 You should plan to be physically present and engaged throughout the whole semester.
-Since we’re teaching a four-unit course at double the typical speed, you should expect to spend a significant amount of time on work for this course (the <a href="https://classes.berkeley.edu/content/2025-summer-compsci-160-001-lec-001)">official guidance from the institute</a> suggests spending <strong>24 hours</strong> per week). Here's an overview of what should be on your radar, and about how much time we're expecting each aspect to take each week: 
+Since we’re teaching a four-unit course at double the typical speed, you should expect to spend a significant amount of time on work for this course (the <a href="https://classes.berkeley.edu/content/2025-summer-compsci-160-001-lec-001">official guidance from the institute</a> suggests spending <strong>24 hours</strong> per week). Here's an overview of what should be on your radar, and about how much time we're expecting each aspect to take each week: 
 </span>
 
 |                                    |                                                                                                                                                                                                                            | Weekly load                        |
@@ -67,7 +67,7 @@ Since we’re teaching a four-unit course at double the typical speed, you shoul
 ## Staff
 
 Instructor: <span data-delta="current instructor"><a href="https://timothyaveni.com/">Timothy J. Aveni</a></span>  
-Teaching assistants: <span data-delta="course staff"><a href="https://jamesdsmith.net/">James Smith</a>, ...</span>
+Teaching assistants: <span data-delta="course staff"><a href="https://jamesdsmith.net/">James Smith</a>, Connie Gu...</span>
 
 Office hours: <span data-delta="office hours schedule">TBD</span>
 

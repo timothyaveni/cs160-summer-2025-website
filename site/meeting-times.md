@@ -10,6 +10,7 @@ description: The weekly event schedule.
 
 - **Tim**: TBD
 - **James**: TBD
+- **Connie**: TBD
 
 {% for schedule in site.schedules %}
 {{ schedule }}
