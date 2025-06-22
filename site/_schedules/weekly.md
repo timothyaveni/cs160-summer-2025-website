@@ -27,11 +27,15 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Jacobs 310
-      # - name: Section A
-      #   start: 1:00 PM
-      #   end: 2:00 PM
-      #   location: Soda 405
+        location: Cory 277
+      - name: Section A
+        start: 1:00 PM
+        end: 1:59 PM
+        location: Soda 405
+      - name: Section B
+        start: 2:00 PM
+        end: 2:59 PM
+        location: Cory 521
       # - name: Rahul's office hours
       #   start: 2:00 PM
       #   end: 3:00 PM
@@ -45,17 +49,42 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Jacobs 310
+        location: Cory 277
+      - name: Tim’s office hours
+        start: 10:00 AM
+        end: 10:45 AM
+        location: Cory 367
+      - name: Section C
+        start: 2:00 PM
+        end: 2:59 PM
+        location: Cory 521
   - name: Wednesday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Jacobs 310
+        location: Cory 277
+      - name: Tim’s office hours
+        start: 10:00 AM
+        end: 10:45 AM
+        location: Cory 367
+      - name: Section A
+        start: 1:00 PM
+        end: 1:59 PM
+        location: Soda 405
+      - name: Section B
+        start: 2:00 PM
+        end: 2:59 PM
+        location: Cory 521
   - name: Thursday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
+        location: Cory 277
+      - name: Section C
+        start: 2:00 PM
+        end: 2:59 PM
+        location: Cory 521
   - name: Friday
 ---

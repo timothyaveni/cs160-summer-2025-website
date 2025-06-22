@@ -8,9 +8,10 @@ description: The weekly event schedule.
 
 ## Office hours:
 
-- **Tim**: TBD
+- **Tim**: Tuesday and Wednesday, 10:00 AM – 10:45 AM (Cory 367), **except week 2**
 - **James**: TBD
 - **Connie**: TBD
+- **Edward**: TBD
 
 {% for schedule in site.schedules %}
 {{ schedule }}

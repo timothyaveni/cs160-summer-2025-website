@@ -67,9 +67,9 @@ Since we’re teaching a four-unit course at double the typical speed, you shoul
 ## Staff
 
 Instructor: <span data-delta="current instructor"><a href="https://timothyaveni.com/">Timothy J. Aveni</a></span>  
-Teaching assistants: <span data-delta="course staff"><a href="https://jamesdsmith.net/">James Smith</a>, Connie Gu...</span>
+Teaching assistants: <span data-delta="course staff"><a href="https://jamesdsmith.net/">James Smith</a>, Connie Gu, Edward Gilmore</span>
 
-Office hours: <span data-delta="office hours schedule">TBD</span>
+Office hours: <span data-delta="office hours schedule">see <a href="/meeting-times">calendar</a></span>
 
 ## Grade breakdown
 
@@ -201,18 +201,18 @@ Discussion sections meet twice a week.
 Each meeting will cover a different topic.
 Discussion sections will typically be aimed more at practical skills and teamwork sessions compared to lecture, which will focus on concepts in human-computer interaction and UI design/development.
 
-## Individual assignments
+## Individual programming exercises
 
-<div style="text-decoration: line-through;">
-TODO: outdated.
+Throughout the course, we will assign programming exercises for you to complete individually.
+These are marked for completion, with check-offs generally given through code that automatically verifies that you’ve completed the exercise to satisfaction.
+In some cases, traditional software testing techniques aren’t appropriate to verify completion (*e.g.,* because the assignment gives you some freedom in your design). You’ll have the option either to use an LLM-based check-off system or to have a TA check your work manually.
 
-Throughout the course, we will assign six individual programming assignments. Each will be weighted evenly. Extra credit may be offered in each assignment to give you more practice or to give you some buffer in case of lost points, but extra credit will not cause your grade for that assignment to exceed 100% unless otherwise noted.
+Deadlines will be set each week for exercise completion requirements.
+You’ll have some freedom in which exercises you want to complete for each deadline.
+We will **not** extend these deadlines except in the case of DSP accommodations.
 
-These assignments may come with some auto-graded portion, but even in auto-graded assignments, course staff may always adjust your grade manually based on their evaluation of how well you met the assignment specification.
-
-You should make every attempt to keep up with due dates for individual assignments, because the course schedule moves quickly.
-You will, however, have six slip days to use throughout the semester, described in the "Assignment extensions" section below.
-</div>
+Even in automatically-checked exercises, course staff may always adjust your grade manually based on their evaluation of how well you met the assignment specification.
+We’ll generally only do this if your submission clearly subverts the intended learning objectives of the assignment (e.g., by fooling the autograder instead of implementing to the assignment specification).
 
 ## Readings
 
@@ -253,11 +253,29 @@ I take academic integrity pretty seriously! That said, we’re not wildly strict
 
 You are encouraged to study and work with your classmates, including on individual assignments. Talking through your code with other students is totally acceptable! Make sure you understand your work, though, since there’s a reason we’re having you practice this stuff. You’re **not** allowed to copy code straight from your classmates.
 
-TODO: outdated
-
 Consulting sites like StackOverflow or using large language models to help you code is also okay, but you should stick to asking methodically for what you need as you need it. You’re not allowed to just slap an entire assignment description into an LLM and have it spit out an implementation, but you can use things like GitHub Copilot (free for students, by the way!) to assist with the boring bits as you work through writing code yourself. I do it all the time, myself!
 
 For code in your final project prototype, where we’re not specifically working on training your Web programming skills, you’re even more free to use large language models if you find they’re helping you skip the tedious parts of building your application (e.g. the [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)dy bits). What we’re excited about is seeing you build the unique, innovative UIs that your target user group needs, not seeing how good you are at making login pages and other boring stuff an LLM can help you flesh out. Just be mindful of code quality when you’re doing this! Use LLMs the same way you would in a professional software engineering job.
+
+<div class="admonition-warning" style="
+  background-color:rgb(250, 241, 212);
+  border-color: #ffeeba;
+  color:rgb(75, 56, 4);
+  padding: 1em;
+  margin-top: 1em;
+  border-radius: 0.25rem;
+">
+  That said, AI is <strong>not allowed</strong> for these uses:
+  
+  <ul>
+    <li>To generate fake user data or observations and present it as true user research</li>
+    <li>To use AI as the sole critic of your design when we asked for human critics</li>
+    <li>To write reflections or reading responses for you</li>
+    <li>or any other case where AI is used to subvert the point of an assignment, especially when the point is to engage with real humans for human-centered design</li>
+  </ul>
+  
+  <div style="font-size: smaller; text-align: right;">h/t Andrew Head at the University of Pennsylvania and his <a href="https://docs.google.com/document/d/1mPdqZ9tb9vfiB-Fai0ebset8WttTPkyAcIsQ24EKuFY/edit?tab=t.0">syllabus for CS 4120</a>!</div>
+</div>
 
 Exams will be administered in a computer-based testing facility (CBTF), which will prevent you from accessing disallowed resources during the exam. You won’t be permitted to use personal devices or bring any materials into the exam room.
 
@@ -273,14 +291,10 @@ Keep an eye out for your placement in a **discussion section** and **final proje
 
 ## Assignment extensions
 
-TODO: outdated
-
 ### For individual assignments:
 
-We don't grant per-assignment extensions, but you'll have **six** slip days to use throughout the semester.
-For each day that an assignment is late (rounded **up**, meaning a slip day is consumed even if an assignment is only a few minutes late), you will consume one slip day.
-Once you have consumed all of your slip days, any late submissions will earn a 0.
-Use your slip days judiciously!
+We don't grant extensions for individual programming exercises.
+You should consider working ahead on assignments ­— we’ll do our best to communicate deadlines and have exercises ready in advance — so that you’ll have breathing room later in the semester.
 
 If you have DSP accommodations related to assignment extensions, we will work with you to adjust deadlines as your accommodation letter outlines.
 Note that it is **your responsibility** to communicate with course staff in a timely manner about any anticipated need for an extension.

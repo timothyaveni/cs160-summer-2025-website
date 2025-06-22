@@ -5,7 +5,7 @@ email:
 website: 
 order: 3
 photo: 
-pronouns: she/her
+# pronouns: 
 # meta:
 #   Office Hours: Somewhere on the internet
 ---
