@@ -140,18 +140,13 @@ Students who miss too much of the course may be better-served by a retroactive m
 
 | Absences              | Penalty                                              |
 | --------------------- | ---------------------------------------------------- |
-| Absent 0-5 sessions   | No grade penalty                                     |
-| Absent 6-7 sessions   | 3 percentage point grade penalty                     |
-| Absent 8-9 sessions   | 8 percentage point grade penalty                     |
-| Absent 10-12 sessions | 15 percentage point grade penalty                    |
-| Absent 13+ sessions   | **0/20** for the course participation grade category |
+| Absent 0-5 days       | No grade penalty                                     |
+| Absent 6-7 days       | 3 percentage point grade penalty                     |
+| Absent 8-9 days       | 8 percentage point grade penalty                     |
+| Absent 10-12 days     | 15 percentage point grade penalty                    |
+| Absent 13+ days       | **0/20** for the course participation grade category |
 
 <!-- TODO "participation"? -->
-<!-- | Absent 13+ sessions   | **Not eligible to pass the course** | -->
-
-Note that this policy refers to **sessions, not days**: if you miss lecture and discussion section on the same day, this will count as multiple absences.
-We have two holidays during the semester, and discussion sections will begin on the first Thursday of the semester.
-This amounts to around 44 total course sessions this semester.
 
 In addition to the above attendance policy, **you are responsible for assignments that were completed in part during class**.
 If you are absent for a discussion section during which your team worked on a component of the final project, you should expect to coordinate your workload with your team so that everyone has contributed fairly to the final presentables.
@@ -185,12 +180,10 @@ We'll keep you in the loop!
 
 ## Exams
 
-There are two exams in this course (and no final exam).
-Both will be taken **in-person only** in the computer-based testing facility (CBTF).
+There are three exams in this course (and no final exam).
+They will be taken **in-person only** in the computer-based testing facility (CBTF).
 
-<!-- TODO: need to hear back from greg -->
-
-The first exam will take place <span data-delta="first exam date" style="text-decoration: line-through;">July 9th through July 11th</span>, and the second <span data-delta="second exam date" style="text-decoration: line-through;">July 30th through August 1st</span>.
+The first exam will take place <span data-delta="first exam date">July 9th and July 10th</span>, the second <span data-delta="second exam date">July 23rd and 24th</span>, and the third <span data-delta="third exam date">August 6th and 7th</span>.
 Shortly before each exam week, you will have the opportunity to choose a 60-minute time slot on one of the exam days that works for you, and you will then be required to take the exam during that time slot.
 If you are unable to come in-person for an exam, you will not earn any credit for the exam unless you have an approved, documented excuse for your absence; do **not** assume an absence will be excused before speaking with course staff.
 Excuses are not granted for voluntary travel.
@@ -210,6 +203,7 @@ Discussion sections will typically be aimed more at practical skills and teamwor
 
 ## Individual assignments
 
+<div style="text-decoration: line-through;">
 TODO: outdated.
 
 Throughout the course, we will assign six individual programming assignments. Each will be weighted evenly. Extra credit may be offered in each assignment to give you more practice or to give you some buffer in case of lost points, but extra credit will not cause your grade for that assignment to exceed 100% unless otherwise noted.
@@ -218,6 +212,7 @@ These assignments may come with some auto-graded portion, but even in auto-grade
 
 You should make every attempt to keep up with due dates for individual assignments, because the course schedule moves quickly.
 You will, however, have six slip days to use throughout the semester, described in the "Assignment extensions" section below.
+</div>
 
 ## Readings
 
