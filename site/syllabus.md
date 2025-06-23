@@ -78,7 +78,7 @@ Office hours: <span data-delta="office hours schedule">see <a href="/meeting-tim
 | ----------------------------------------------- | ------ |
 | Individual work and in-class participation      | 20%    |
 | Individual programming exercises                | 20%    |
-| Team project                                    | 20%    |
+| Team project                                    | 30%    |
 | Exams                                           | 30%    |
 
 <!-- Participation and attendance will affect your grade as described below. -->
