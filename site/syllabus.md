@@ -26,6 +26,7 @@ This course is designed to give you a solid basis for designing and implementing
 
 This is a team-based class; you will be matched with classmates in teams of three to five people, and you’ll work with those teammates to brainstorm, study the needs of a chosen group of users, and ultimately design and build a high-fidelity prototype of software to address that user group’s needs.
 
+<!-- TODO -->
 This class is taught using the Web platform, meaning your final project result will take the form of a Web application or a PWA, developed using HTML, CSS, and JavaScript.
 While lecture will largely focus on teaching you principles of HCI, you’ll also be taught in discussion section what you need to know to build out a prototype Web application.
 
