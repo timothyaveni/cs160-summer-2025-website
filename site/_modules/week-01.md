@@ -6,11 +6,11 @@ title: Week 1
 
 June 23rd
 : **Lecture**{: .label .label-lecture} Lecture 0: Introduction
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91916203)
 
 June 24th
 : **Lecture**{: .label .label-lecture} The Design Cycle
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91916326)
 : **Reading (optional)**{: .label .label-reading-opt} [The Design of Everyday Things, chapter 6](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
 
 June 25th
