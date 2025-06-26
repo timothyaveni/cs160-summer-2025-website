@@ -12,7 +12,7 @@ June 30th
 July 1st
 : **Lecture**{: .label .label-lecture} Contextual Inquiry
   : Slides
-: **Reading (required)**{: .label .label-reading-req} [Principles of Contextual Inquiry (Contextual design ch. 3)](https://berkeley.app.box.com/s/s0mf71wwr1pc2s3pf2mn511s3igk2y2s)
+: **Reading (required)**{: .label .label-reading-req} [Principles of Contextual Inquiry (Contextual design ch. 3)](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91925395)
 : **Discussion**{: .label .label-discussion}
 
 July 2nd
