@@ -15,7 +15,7 @@ June 24th
 
 June 25th
 : **Lecture**{: .label .label-lecture} Design Methods, Sketching, Brainstorming
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91925149)
 : **Reading (required)**{: .label .label-reading-req} [The Perfect Brainstorm](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91916994)
 : **Reading (optional)**{: .label .label-reading-opt} [Viégas & Wattenberg, Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 : **Discussion**{: .label .label-discussion} Introductions; Team project and brainstorming
