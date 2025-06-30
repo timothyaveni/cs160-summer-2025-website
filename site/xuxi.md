@@ -54,6 +54,7 @@ all of your existing points will carry over, so you’ll only need to complete 2
 
 You’ll generally be able to **work ahead**, if there are enough extra exercises available, so that earning extra points will lighten your load in a future week.
 
+<!--
 The following is a **tentative** schedule of assignments for this semester:
 
 | Week | Assignment                                                      |
@@ -66,6 +67,7 @@ The following is a **tentative** schedule of assignments for this semester:
 | 6    | 120 points overall; plus an additional choice of specialization |
 | 7    | 140 points overall; plus a targeted assignment by your TA       |
 | 8    | None                                                            |
+-->
 
 ### Multiple assignments
 
