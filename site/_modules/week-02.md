@@ -11,7 +11,7 @@ June 30th
 
 July 1st
 : **Lecture**{: .label .label-lecture} Contextual Inquiry
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91945176)
 : **Reading (required)**{: .label .label-reading-req} [Principles of Contextual Inquiry (Contextual design ch. 3)](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91925395)
 : **Discussion**{: .label .label-discussion} CSS, Selectors
 
