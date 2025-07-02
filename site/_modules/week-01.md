@@ -22,7 +22,7 @@ June 25th
 
 June 26th
 : **Lecture**{: .label .label-lecture} Web applications, HTML, CSS
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91949408)
 : **Discussion**{: .label .label-discussion} Introductions; Team project and brainstorming
 
 
