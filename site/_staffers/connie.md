@@ -1,7 +1,7 @@
 ---
 name: Connie Gu
 role: Teaching Assistant
-email:
+email: connieqgu@berkeley.edu
 website:
 order: 2
 photo: connie.jpg

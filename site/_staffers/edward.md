@@ -1,7 +1,7 @@
 ---
 name: Edward Gilmore
 role: Teaching Assistant
-email: 
+email: edward.j.gilmore@berkeley.edu
 website: 
 order: 3
 photo: edward.jpg
