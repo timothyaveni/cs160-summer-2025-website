@@ -76,8 +76,16 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
+      - name: James' OH
+        start: 3:10 PM
+        end: 4:10 PM
+        location: Zoom, see above
   - name: Thursday
     events:
+      - name: Connie's OH
+        start: 10:00 AM
+        end: 10:59 AM
+        location: Soda 347
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -86,5 +94,9 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
+      - name: James' OH
+        start: 3:10 PM
+        end: 4:10 PM
+        location: Zoom, see above
   - name: Friday
 ---
