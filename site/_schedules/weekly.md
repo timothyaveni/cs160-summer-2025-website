@@ -36,10 +36,10 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
-      - name: Edward's OH
-        start: 2:00 PM
-        end: 2:59 PM
-        location: Soda 347
+      # - name: Edward's OH
+      #   start: 2:00 PM
+      #   end: 2:59 PM
+      #   location: Soda 347
       # - name: Rahul's office hours
       #   start: 2:00 PM
       #   end: 3:00 PM
