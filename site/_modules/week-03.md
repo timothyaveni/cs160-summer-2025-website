@@ -6,7 +6,7 @@ title: Week 3
 
 July 7th
 : **Lecture**{: .label .label-lecture} Affordances, Signifiers, Conceptual Models
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91981360)
 : **Discussion**{: .label .label-discussion} Figma
 : **Reading (required)**{: .label .label-reading-req} [The Design of Everyday Things, Chapter 1](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
 
