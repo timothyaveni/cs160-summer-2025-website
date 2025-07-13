@@ -12,18 +12,20 @@ July 7th
 
 July 8th
 : **Lecture**{: .label .label-lecture} Conceptual Models, Design Principles, The Action Cycle
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91998285)
 : **Discussion**{: .label .label-discussion} Figma
 
 July 9th
-: **Lecture**{: .label .label-lecture} Web UI programming patterns, React
-  : Slides
+: **Lecture**{: .label .label-lecture} Metaphors, Modes, Web UI programming
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91999448)
 : **Discussion**{: .label .label-discussion} Project: Contextual Inquiry
+: **Midterm**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
 
 July 10th
-: **Lecture**{: .label .label-lecture} Developing Interactivity on the Web
-  : Slides
+: **Lecture**{: .label .label-lecture} React state, Prototyping
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91999531)
 : **Discussion**{: .label .label-discussion} Project: Contextual Inquiry
+: **Midterm**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
 
 July 13th
 : **Programming Exercises Due**{: .label .label-proj} [Week 3: 20 points overall](https://bcourses.berkeley.edu/courses/1545463/assignments/8924658)
