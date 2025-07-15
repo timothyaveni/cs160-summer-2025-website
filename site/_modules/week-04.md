@@ -19,12 +19,12 @@ July 15th
 July 16th
 : **Lecture**{: .label .label-lecture} Developing interactivity on the Web
   : Slides
-: **Discussion**{: .label .label-discussion} 
+: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry Checkin
 
 July 17th
 : **Lecture**{: .label .label-lecture} Empirical evaluation, Data analysis
   : Slides
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry Checkin
 
 July 20th
 : **Programming Exercises Due**{: .label .label-proj} Week 4: 40 points overall, including 15 points of JavaScript
