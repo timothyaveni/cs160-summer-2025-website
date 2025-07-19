@@ -19,12 +19,12 @@ July 15th
 July 16th
 : **Lecture**{: .label .label-lecture} Developing for Direct Manipulation
   : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92046345)
-: **Discussion**{: .label .label-discussion} 
+: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry Checkin
 
 July 17th
 : **Lecture**{: .label .label-lecture} Empirical evaluation, Data analysis
   : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92046356)
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry Checkin
 : **Reading (optional)**{: .label .label-reading-opt} [Doing Psychology Experiments, chapter 12](https://www.researchgate.net/profile/Mohammad-Khakshour/publication/283284170_doing_psychology_experiments/links/5630738d08aefac54d8f1cc7/doing-psychology-experiments.pdf)
 
 July 20th
