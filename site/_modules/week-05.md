@@ -5,8 +5,8 @@ title: Week 5
 <!-- prettier-ignore-start -->
 
 July 21st
-: **Lecture**{: .label .label-lecture} Information Visualization, Visual Design
-  : Slides
+: **Lecture**{: .label .label-lecture} Information Visualization, Visual design
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92060577)
 : **Discussion**{: .label .label-discussion} Intro to Low-fi prototype, Team project work
 
 July 22nd
