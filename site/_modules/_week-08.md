@@ -7,12 +7,12 @@ title: Week 8
 August 5th
 : **Lecture**{: .label .label-lecture} In-class work
   : .
-: **Discussion**{: .label .label-discussion} High-fidelity prototyping
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
 
 August 6th
 : **Lecture**{: .label .label-lecture} In-class work
   : .
-: **Discussion**{: .label .label-discussion} High-fidelity prototyping
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
 
 August 7th
 : **Lecture**{: .label .label-lecture} Demo session!!
