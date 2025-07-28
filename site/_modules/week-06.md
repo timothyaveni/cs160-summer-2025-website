@@ -23,7 +23,7 @@ July 30th
 : **Discussion**{: .label .label-discussion}
 
 July 31st
-: **Lecture**{: .label .label-lecture} Guest lecture
+: **Lecture**{: .label .label-lecture} Guest lecture: Pablo Ruiz-Múzquiz
   : Slides
 : **Discussion**{: .label .label-discussion}
 
