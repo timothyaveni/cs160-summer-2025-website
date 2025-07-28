@@ -27,5 +27,7 @@ July 31st
   : Slides
 : **Discussion**{: .label .label-discussion}
 
+August 3rd
+: **Programming Exercises Due**{: .label .label-proj} Week 6: 60 points overall, including 11 points of AI integration
 
 <!-- prettier-ignore-end -->
