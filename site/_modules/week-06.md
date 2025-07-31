@@ -24,8 +24,9 @@ July 30th
 
 July 31st
 : **Lecture**{: .label .label-lecture} Guest lecture: Pablo Ruiz-Múzquiz
-  : Slides
+  : .
 : **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 1 Due)
+: **Reading (required)**{: .label .label-reading-req} Penpot's AI whitepaper (find link on Edstem)
 
 August 3rd
 : **Programming Exercises Due**{: .label .label-proj} Week 6: 60 points overall, including 11 points of AI integration
