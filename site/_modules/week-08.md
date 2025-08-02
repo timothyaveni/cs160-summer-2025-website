@@ -5,20 +5,19 @@ title: Week 8
 <!-- prettier-ignore-start -->
 
 August 5th
-: **Lecture**{: .label .label-lecture} In-class work
-  : .
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
+: **Lecture**{: .label .label-lecture} HCI Research
+  : Slides
+: **Discussion**{: .label .label-discussion}
 
 August 6th
-: **Lecture**{: .label .label-lecture} In-class work
+: **Lecture**{: .label .label-lecture} .
   : .
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
+: **Discussion**{: .label .label-discussion}
 
 August 7th
 : **Lecture**{: .label .label-lecture} Demo session!!
   : .
 : **Discussion**{: .label .label-discussion} **no discussion section**
-: **Programming Assignment Due**{: .label .label-proj} [optional] Programming assignment 6: Backend basics
 
 August 8th
 : **Lecture**{: .label .label-lecture} Wrap-up

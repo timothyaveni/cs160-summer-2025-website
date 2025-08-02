@@ -21,6 +21,7 @@ July 30th
 : **Lecture**{: .label .label-lecture} Accessibility, Internationalization
   : Slides
 : **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 1 Due)
+: **Reading (optional)**{: .label .label-reading-opt} [Ability-Based Design: Concept, Principles and Examples](https://kgajos.seas.harvard.edu/papers/wobbrock11abd.pdf)
 
 July 31st
 : **Lecture**{: .label .label-lecture} Guest lecture: Pablo Ruiz-Múzquiz
