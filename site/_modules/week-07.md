@@ -17,7 +17,7 @@ July 30th
 
 July 31st
 : **Lecture**{: .label .label-lecture} .
-  : [Slides](https://bcourses.berkeley.edu/courses/1535376/files/folder/lectures?preview=89268577)
+  : Slides
 : **Discussion**{: .label .label-discussion}
 : **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/), across two days)
 
