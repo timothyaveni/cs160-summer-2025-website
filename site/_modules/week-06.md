@@ -19,7 +19,7 @@ July 29th
 
 July 30th
 : **Lecture**{: .label .label-lecture} Accessibility, Internationalization
-  : Slides
+  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92125133)
 : **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 1 Due)
 : **Reading (optional)**{: .label .label-reading-opt} [Ability-Based Design: Concept, Principles and Examples](https://kgajos.seas.harvard.edu/papers/wobbrock11abd.pdf)
 
