@@ -19,12 +19,11 @@ July 31st
 : **Lecture**{: .label .label-lecture} .
   : Slides
 : **Discussion**{: .label .label-discussion}
-: **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/), across two days)
 
 August 1st
 : **Lecture**{: .label .label-lecture} .
   : Slides
 : **Discussion**{: .label .label-discussion}
-: **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/), across two days)
+: **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/))
 
 <!-- prettier-ignore-end -->
