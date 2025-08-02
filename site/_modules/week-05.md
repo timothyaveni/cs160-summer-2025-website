@@ -15,7 +15,7 @@ July 22nd
 : **Discussion**{: .label .label-discussion} Intro to Low-fi prototype, Team project work
 
 July 23rd
-: **Lecture**{: .label .label-lecture} Large Languae Models in User Interfaces
+: **Lecture**{: .label .label-lecture} Large Language Models in User Interfaces
   : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92072905)
 : **Discussion**{: .label .label-discussion} Team project work: low-fi prototype
 : **Midterm**{: .label} Midterm 2 ([self-scheduled](https://us.prairietest.com/), across two days)
