@@ -7,12 +7,12 @@ title: Week 8
 August 5th
 : **Lecture**{: .label .label-lecture} HCI Research
   : Slides
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
 
 August 6th
 : **Lecture**{: .label .label-lecture} .
   : .
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
 
 August 7th
 : **Lecture**{: .label .label-lecture} Demo session!!

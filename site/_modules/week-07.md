@@ -8,22 +8,22 @@ July 29th
 : **Lecture**{: .label .label-lecture} How Bodies Matter
   : Slides
 : **Reading (optional)**{: .label .label-reading-opt} [How Bodies Matter](https://hci.stanford.edu/publications/2006/HowBodiesMatter-DIS2006.pdf)
-: **Discussion**{: .label .label-discussion} 
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping
 
 July 30th
 : **Lecture**{: .label .label-lecture} AR/VR
   : Slides
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping
 
 July 31st
 : **Lecture**{: .label .label-lecture} .
   : Slides
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 2 Due)
 
 August 1st
 : **Lecture**{: .label .label-lecture} .
   : Slides
-: **Discussion**{: .label .label-discussion}
+: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 2 Due)
 : **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/))
 
 <!-- prettier-ignore-end -->
